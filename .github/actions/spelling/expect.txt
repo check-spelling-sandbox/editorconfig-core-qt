@@ -1,0 +1,11 @@
+ctest
+DESTDIR
+gitmodules
+INCLUDEPATH
+nmake
+NONINFRINGEMENT
+pri
+QIO
+qmake
+typedef
+windeployqt
